@@ -1,0 +1,19 @@
+.godot/
+.DS_Store
+*.tmp
+*.log
+export.cfg
+export_credentials.cfg
+builds/
+artifacts/*.png
+artifacts/*.avi
+artifacts/*.wav
+
+# Local machine credentials and editor-private state
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+__pycache__/
